@@ -1,4 +1,4 @@
-package com.konzel.example5;
+package com.konzel.example6;
 
 import org.springframework.stereotype.Service;
 
